@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLT04OPq0kSYHGPY8u8cFxJa/njfD0m0qNE504GiNW4JMu5yAicON2MKl2LO1p9ZJ2TBpK4NbU4byjIhZQ9e0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\New folder\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
